@@ -1,3 +1,20 @@
+Algorithm 	Scrypt
+Type 	PoW/PoS
+Coin name 	Miacoin
+Coin ticker 	MIAC
+Address letter 	M
+Date Created 	01/01/2018
+RPC port 	32486
+P2P port 	32485
+Last PoW block 	block 1000
+Block reward 	815 coins (PoW)
+PoS percentage 	20% per year
+Target spacing 	64 seconds
+Coinbase maturity 	10 blocks
+Transaction confirmations 	6 blocks
+Coin Max supply 	342.300.000 Miacoin (MIAC)
+
+============================
 Miacoin development tree
 
 Miacoin is a Pow - PoS -based cryptocurrency.
